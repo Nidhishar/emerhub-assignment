@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "firebase": "^7.16.1",
+    "tailwindcss": "^1.5.1",
+    "vue": "^2.6.11",
+    "vue-tailwind": "^0.4.6",
+    "vuexfire": "^3.2.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",

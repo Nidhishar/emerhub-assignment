@@ -14,7 +14,7 @@
     "vue": "^2.6.11",
     "vue-tailwind": "^0.4.6",
     "vuexfire": "^3.2.3",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
